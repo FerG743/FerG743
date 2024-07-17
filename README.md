@@ -1,8 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Salu2;Pelu2)](https://git.io/typing-svg)
+
 - 👋 Hi, I’m Fer 
 - 👀 I’m interested in Tech, I love litsening to music, 3D Desingn and cars
 - 🌱 I’m currently learning Neural Networks in python, and application developement
-- 📫 How to reach me Linkedin: www.linkedin.com/in/luis-fernando-gómez-benítez-37884b26b
+- 📫 How to reach me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/luis-fernando-gómez-benítez-37884b26b)
+
 
 ---
 
