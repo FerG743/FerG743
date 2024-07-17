@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Salu2;Soy+F+F+R](https://git.io/typing-svg)
+
 - 👋 Hi, I’m Fer 
 - 👀 I’m interested in Tech, I love litsening to music, 3D Desingn and cars
 - 🌱 I’m currently learning Neural Networks in python, and application developement
